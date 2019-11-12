@@ -11,5 +11,5 @@ class ExampleComponent extends Component {
     );
   }
 }
-
+// The export statement allows for this file to be used in another file. It is then imported by App.js.
 export default ExampleComponent;
